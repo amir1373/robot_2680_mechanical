@@ -17,6 +17,7 @@ oshtaghiun\robot 11.2\100CBX flanch.IGS,15HSolidWorks 2022,15HSolidWorksG      2
      110       0       0       1       0                               0D     12
      126       8       0       0       0                        01010500D     13
      126       0       0       2       0                               0D     14
+     124      10       0       0       0                        00000000D     15
      124       0       0       4       0                               0D     16
      100      14       0       0       0              15        01010000D     17
      100       0       0       1       0                               0D     18
